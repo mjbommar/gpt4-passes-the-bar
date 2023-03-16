@@ -1,0 +1,11 @@
+The trial court should deny the defendant's motion to exclude Victim's anticipated testimony that Defendant shot him because of a gang dispute as irrelevant.
+
+Under Rule 401 of the Federal Rules of Evidence, evidence is relevant if it has any tendency to make a fact of consequence more or less probable than it would be without the evidence. Here, Victim's testimony that Defendant shot him because of a gang dispute is relevant because it tends to make it more probable that Defendant committed the attempted murder with which he is charged. If the jury believes Victim's testimony, it would tend to show that Defendant had a motive to shoot Victim and that the shooting was not a random act of violence.
+
+Defendant may argue that Victim's testimony is not relevant because it does not prove that Defendant is a member of The Lions or that the shooting was related to gang activity. However, under Rule 402 of the Federal Rules of Evidence, relevant evidence is admissible unless excluded by another rule. Here, Defendant has not identified any other rule that would exclude Victim's testimony as irrelevant.
+
+Defendant may also argue that Victim's testimony is more prejudicial than probative under Rule 403 of the Federal Rules of Evidence. However, the probative value of Victim's testimony outweighs any potential prejudice. The fact that Defendant is a member of The Lions and that the shooting was related to a gang dispute is highly probative of Defendant's guilt, and any potential prejudice can be mitigated by a limiting instruction from the court.
+
+In addition, Defendant may argue that Victim's testimony is hearsay under Rule 801 of the Federal Rules of Evidence. However, Victim's testimony is not hearsay because it is not offered to prove the truth of the matter asserted (i.e., that there was a gang dispute and that Defendant shot Victim because of it). Rather, it is offered to show Defendant's motive and intent.
+
+Therefore, the trial court should deny Defendant's motion to exclude Victim's anticipated testimony as irrelevant.

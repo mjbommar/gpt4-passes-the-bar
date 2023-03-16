@@ -1,0 +1,9 @@
+(a) The AD Trust was validly created. Arlene signed and dated a Declaration of Trust, which clearly stated her intention to create a trust and identified herself as the sole trustee. The trust instrument also identified the beneficiaries and the assets that were to be held in trust. Although the trust instrument did not expressly state whether it was revocable or irrevocable, this alone does not render the trust invalid. Under the Uniform Trust Code, a trust is presumed to be revocable unless the trust instrument expressly provides otherwise. Therefore, absent any clear indication that the trust was intended to be irrevocable, it is presumed to be revocable.
+
+It is worth noting that the fact that Arlene had not yet transferred any assets to the trust at the time she executed the Declaration of Trust does not affect the validity of the trust. A trust can be created even if it is unfunded at the time of its creation.
+
+(b) The AD Trust was not effectively revoked. Arlene wrote "This AD Trust is revoked" on the face of the Declaration of Trust, but this alone is not sufficient to revoke the trust. Under the Uniform Trust Code, a trust can be revoked only by a method provided in the trust instrument or by a later writing that expressly revokes the trust. Here, the trust instrument did not provide a method for revocation, and Arlene's writing on the face of the Declaration of Trust was not a later writing that expressly revoked the trust. Therefore, the AD Trust was not effectively revoked.
+
+It is also worth noting that Arlene's subsequent actions in taking back the assets listed on Schedule A do not constitute a revocation of the trust. If the trust was validly created, Arlene could not simply take back the assets without properly terminating the trust.
+
+In summary, the AD Trust was validly created and was not effectively revoked.

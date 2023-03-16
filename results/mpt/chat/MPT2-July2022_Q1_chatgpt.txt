@@ -1,0 +1,36 @@
+MEMORANDUM
+
+To: Howard Zeller
+From: Examinee
+Date: July 26, 2022
+Re: Briotti request for advice
+
+Question Presented
+
+Under applicable state law, may Briotti lawfully record her telephone conversation with X without informing X that she is doing so?
+
+Short Answer
+
+The answer to the question depends on the state law of both Franklin and Olympia, as well as the ABA Model Rules of Professional Conduct. Franklin and Olympia have different laws regarding the recording of telephone conversations, with Franklin requiring the consent of one party and Olympia requiring the consent of all parties. The ABA Model Rules permit recording of conversations without the knowledge of all parties in certain circumstances. Briotti should also consider the ethical implications of secretly recording her client.
+
+Analysis
+
+1. State Law
+
+Franklin and Olympia have different laws regarding the recording of telephone conversations. Franklin requires the consent of one party to the conversation, while Olympia requires the consent of all parties. In this case, Briotti is located in Franklin and X is located in Olympia. Therefore, the first question is which state's law governs the recording of the telephone conversation.
+
+If Olympia law applies, Briotti would need to obtain X's consent before recording the conversation. If Franklin law applies, Briotti could record the conversation without X's knowledge or consent, as long as she is a party to the conversation.
+
+2. ABA Model Rules of Professional Conduct
+
+Briotti should also consider the ABA Model Rules of Professional Conduct, which have been adopted by both Franklin and Olympia. Rule 1.6 requires lawyers to maintain confidentiality of client information, except in certain circumstances. Rule 8.4 prohibits lawyers from engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation.
+
+Formal Opinion 01-422 of the ABA Standing Committee on Ethics and Professional Responsibility provides guidance on electronic recordings by lawyers without the knowledge of all participants. The opinion states that the mere act of secretly but lawfully recording a conversation is not inherently deceitful. However, a lawyer must be aware of the risks and must reasonably believe in the necessity of making such a recording. The opinion also notes that undisclosed recording of a conversation with a client is almost always inadvisable unless the lawyer reasonably believes it necessary.
+
+3. Ethical Implications
+
+Briotti should also consider the ethical implications of secretly recording her client. Rule 1.6 requires lawyers to maintain confidentiality of client information, and Briotti should consider whether recording the conversation would violate that duty. Additionally, recording the conversation without X's knowledge or consent could be seen as a breach of trust and could damage the attorney-client relationship. Briotti should carefully consider whether the potential benefits of recording the conversation outweigh the potential risks.
+
+Conclusion
+
+The answer to whether Briotti may lawfully record her telephone conversation with X without informing X that she is doing so depends on the state law of both Franklin and Olympia, as well as the ABA Model Rules of Professional Conduct. Briotti should also consider the ethical implications of secretly recording her client. Therefore, before recording the conversation, Briotti should determine which state law applies and carefully consider the potential risks and benefits of doing so.

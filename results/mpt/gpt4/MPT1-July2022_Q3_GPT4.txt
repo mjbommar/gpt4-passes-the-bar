@@ -1,0 +1,28 @@
+MEMORANDUM
+
+To: Marianne Morton
+From: Examinee
+Date: July 26, 2022
+Re: Walter Hixon matter
+
+I. Introduction
+
+This memorandum addresses the question of whether a Franklin court would have jurisdiction to annul the marriage between Mr. Hixon and Ms. Tucker and to dispose of the parties' property. As explained below, a Franklin court would have jurisdiction to annul the marriage, but it may not have jurisdiction to dispose of the parties' property located in Columbia.
+
+II. Jurisdiction to Annul the Marriage
+
+A Franklin court would have jurisdiction to annul the marriage between Mr. Hixon and Ms. Tucker because Mr. Hixon is a resident of Franklin. Under Franklin law, a court has jurisdiction over the res of the marriage relationship when one of the parties to the marriage has been domiciled within the state for the requisite period, which in Franklin is six months. See Daniels v. Daniels, Franklin Court of Appeal (1997). Mr. Hixon has been a resident of Franklin for several years, so he meets this requirement.
+
+Furthermore, Franklin law does not require in personam jurisdiction over both parties to the marriage in order to grant an annulment. See Daniels, supra; Price v. Price, Franklin Supreme Court (1972); Carew v. Ellis, Franklin Supreme Court (1957). Therefore, the fact that Ms. Tucker is a resident of Columbia does not prevent a Franklin court from having jurisdiction to annul the marriage.
+
+III. Jurisdiction to Dispose of the Parties' Property
+
+While a Franklin court would have jurisdiction to annul the marriage, it may not have jurisdiction to dispose of the parties' property located in Columbia. Franklin courts have long held that, even in the absence of in personam jurisdiction over the defendant in a case seeking to end a marriage, a Franklin court can render a valid judgment with respect to real property located in Franklin. See Gore v. Gore, Franklin Supreme Court (1985) (divorce); Carew v. Ellis, supra (annulment). However, these cases do not address the issue of whether a Franklin court can dispose of property located outside of Franklin.
+
+The Restatement (Second) of Conflict of Laws § 283 (1971) provides that the validity of a marriage will be determined by the local law of the state which, with respect to the particular issue, has the most significant relationship to the spouses and the marriage under the principles stated in § 6. One of the factors listed in § 6 is "certainty, predictability, and uniformity of result." Applying this factor, it would be more certain, predictable, and uniform for a Columbia court to dispose of property located in Columbia, rather than a Franklin court.
+
+Furthermore, the United States Supreme Court has held that the mere presence of property in a state, standing alone, will not constitute sufficient "minimum contacts" to support the state's exercise of its in rem jurisdiction, if the property is unrelated to the underlying cause of action. See Shaffer v. Heitner, 433 U.S. 186 (1977). In this case, the property is located in Columbia and is unrelated to the underlying cause of action, which is the annulment of the marriage. Therefore, a Franklin court may not have jurisdiction to dispose of the parties' property located in Columbia.
+
+IV. Conclusion
+
+In conclusion, a Franklin court would have jurisdiction to annul the marriage between Mr. Hixon and Ms. Tucker, but it may not have jurisdiction to dispose of the parties' property located in Columbia. Mr. Hixon may need to file a separate action in Columbia to address the issue of the parties' property.

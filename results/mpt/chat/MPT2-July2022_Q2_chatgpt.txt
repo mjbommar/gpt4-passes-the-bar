@@ -1,0 +1,30 @@
+MEMORANDUM
+
+To: Howard Zeller
+From: Examinee
+Date: July 26, 2022
+Re: Briotti request for advice
+
+Issue
+
+Would recording a telephone conversation with Briotti's client without their knowledge violate the Rules of Professional Conduct, assuming it is lawful under state law?
+
+Rule
+
+Rule 1.6(a) of the ABA Model Rules of Professional Conduct prohibits a lawyer from revealing information relating to the representation of a client unless the client gives informed consent or the disclosure is impliedly authorized in order to carry out the representation. Rule 8.4(c) prohibits a lawyer from engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation. Formal Opinion 01-422 of the ABA Standing Committee on Ethics and Professional Responsibility provides guidance on the ethical considerations of recording conversations by lawyers without the knowledge of all participants.
+
+Analysis
+
+The first issue to consider is whether recording the conversation would be lawful under state law. Briotti is a member of both the Franklin and Olympia bars, and X is located in Olympia. Olympia is a one-party consent state, meaning that recording a conversation is lawful as long as one party consents to it. Franklin, on the other hand, is an all-party consent state, which prohibits recording a conversation without the consent of all parties to the call. Therefore, it is necessary to determine which state's law governs the conversation.
+
+If Olympia law applies, then recording the conversation would be lawful as long as Briotti consents to it. However, if Franklin law applies, then recording the conversation without X's consent would be unlawful. The location of the recording equipment is irrelevant under these state laws.
+
+Assuming that the recording would be lawful under state law, the next issue is whether it would violate the Rules of Professional Conduct. Formal Opinion 01-422 of the ABA Standing Committee on Ethics and Professional Responsibility provides guidance on this issue. The opinion states that recording a conversation without the knowledge of all participants is not inherently deceitful, but the lawyer must ensure that the recording is lawful under state law.
+
+In addition, the opinion notes that a lawyer owes a duty of loyalty to their client, which includes a duty to preserve confidentiality and communicate with the client about the matter involved in the representation. Recording a conversation with a client without their knowledge may undermine the trust and truthful dealing that is essential to the attorney-client relationship. Therefore, the opinion advises that recording a conversation with a client without their knowledge is almost always inadvisable unless the lawyer reasonably believes it is necessary.
+
+In this case, Briotti intends to record the conversation to ensure that she has evidence that she properly advised X if he ignores her advice. However, recording the conversation without X's knowledge may undermine the trust and truthful dealing that is essential to the attorney-client relationship. Briotti should consider alternative methods of memorializing the conversation, such as taking detailed notes, before deciding to record the conversation without X's knowledge.
+
+Conclusion
+
+Recording a telephone conversation with Briotti's client without their knowledge would not violate the Rules of Professional Conduct if it is lawful under state law. However, Briotti should consider the duty of loyalty she owes to her client and the potential harm to the attorney-client relationship before deciding to record the conversation without X's knowledge. Briotti should also ensure that she reasonably believes the recording is necessary before making it.

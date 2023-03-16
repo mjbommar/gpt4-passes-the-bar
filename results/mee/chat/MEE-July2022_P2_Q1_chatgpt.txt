@@ -1,0 +1,11 @@
+The issue presented is whether Seller's and Buyer's oral agreement that Buyer would use Seller's picture on red wine labels is enforceable even though it was not included in the written agreement.
+
+Under the common law of contracts, an oral agreement can be enforceable if it meets the requirements of a valid contract, which are offer, acceptance, consideration, and mutual assent. The offer must be definite and certain, and the acceptance must be unconditional and unequivocal. Consideration must be present, which means that each party must receive something of value in exchange for their promises. Mutual assent requires that each party understands and agrees to the essential terms of the contract.
+
+In this case, Seller and Buyer orally agreed that if Seller sold the winery to Buyer, he would continue to use the label for as long as he sold red wines. While this agreement was not included in the written contract, it still may be enforceable if it meets the requirements of a valid contract.
+
+First, there was an offer made by Seller to Buyer that he must agree to continue using the label for as long as he sold red wines. Second, Buyer accepted the offer by agreeing to the condition that he would continue using the label. Third, there was consideration present as Seller was willing to sell the winery to Buyer only if he agreed to use the label. Fourth, there was mutual assent as both parties understood and agreed to the essential terms of the agreement.
+
+However, there may be potential statute of frauds issues as the agreement was not included in the written contract. The statute of frauds requires that certain contracts be in writing to be enforceable, including contracts for the sale of goods over $500. However, since the sale of an ongoing business is governed by the common law of contracts, the statute of frauds may not apply. Even if it does, the oral agreement may fall under the exception for part performance, which allows an oral agreement to be enforced if one party has partially performed the contract.
+
+Therefore, Seller's and Buyer's oral agreement that Buyer would use Seller's picture on red wine labels may be enforceable even though it was not included in the written agreement.

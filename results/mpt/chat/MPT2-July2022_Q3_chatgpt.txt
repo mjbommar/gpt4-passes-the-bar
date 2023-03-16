@@ -1,0 +1,23 @@
+MEMORANDUM
+
+To: Howard Zeller
+From: Examinee
+Date: July 26, 2022
+Re: Briotti request for advice
+
+Issue:
+Assuming that state law allows Nina Briotti to record a telephone conversation with her client X without his knowledge and that doing so would not violate the Rules of Professional Conduct, must she inform X that she is doing so if he asks?
+
+Analysis:
+The first issue to consider is whether state law allows Briotti to record a telephone conversation with X without his knowledge. Briotti is licensed to practice law in both Franklin and Olympia, and the laws of both states have been considered. Franklin's criminal code prohibits the interception or attempted interception of any wire communication without the prior consent of one of the parties to the communication, except in emergency situations. Olympia's criminal code similarly prohibits the interception or attempted interception of any wire communication without the prior consent of all parties to the communication, except in emergency situations. Therefore, it is necessary to determine which state's law governs the cross-border telephone conversation between Briotti and X.
+
+Assuming that Olympia law applies, Briotti would be prohibited from recording the telephone conversation without X's consent. However, if Franklin law applies, Briotti would be permitted to record the conversation with X's consent. Therefore, it is important to determine which state's law applies to the situation at hand.
+
+The next issue to consider is whether Briotti's recording of the conversation would violate the Rules of Professional Conduct. Briotti is subject to the ABA Model Rules of Professional Conduct, which have been adopted by both Franklin and Olympia. Rule 1.6(a) prohibits a lawyer from revealing information relating to the representation of a client unless the client gives informed consent or the disclosure is impliedly authorized in order to carry out the representation. Rule 8.4(c) prohibits a lawyer from engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation.
+
+Formal Opinion 01-422 of the ABA Standing Committee on Ethics and Professional Responsibility provides guidance on the ethics of electronic recordings by lawyers without the knowledge of all participants. The opinion concludes that the mere act of secretly but lawfully recording a conversation is not inherently deceitful, but the lawyer must take care to ensure that such recording is not accompanied by other circumstances that make it unethical. The opinion also notes that a lawyer contemplating nonconsensual recording of a conversation should take care to ensure that they are informed of the relevant law of the jurisdiction in which the recording occurs.
+
+In this case, assuming that state law allows Briotti to make the recording, and she has taken care to ensure that doing so is not accompanied by other circumstances that make it unethical, Briotti may record the conversation without X's knowledge. However, if X asks whether she is recording the conversation, it is not clear whether she must inform him.
+
+Conclusion:
+Assuming that state law allows Nina Briotti to record a telephone conversation with her client X without his knowledge and that doing so would not violate the Rules of Professional Conduct, it is not clear whether she must inform X if he asks whether she is recording the conversation. It is important to determine which state's law applies to the situation at hand and to ensure that the recording is not accompanied by other circumstances that make it unethical.

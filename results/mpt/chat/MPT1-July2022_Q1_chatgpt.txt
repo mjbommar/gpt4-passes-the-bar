@@ -1,0 +1,28 @@
+MEMORANDUM
+
+To: Marianne Morton
+From: [Examinee]
+Date: July 26, 2022
+Re: Walter Hixon matter - Choice of Law for Annulment
+
+Issue Presented
+The issue presented is whether Columbia or Franklin law governs the grounds for annulling Walter Hixon's marriage to Frances Tucker.
+
+Brief Answer
+Franklin law governs the grounds for annulling Walter Hixon's marriage to Frances Tucker.
+
+Discussion
+Under the Restatement (Second) of Conflict of Laws § 6, a court should apply the law of the state with the most significant relationship to the spouses and the marriage under the principles stated in § 6. If a state has no such relationship, that state must apply the law of the state that does. The factors relevant to the choice of the applicable rule of law include the relevant policies of other interested states and the relative interests of those states in the determination of the particular issue, the protection of justified expectations, certainty, predictability, and uniformity of result, and ease in the determination and application of the law to be applied.
+
+In this case, the parties were married in Columbia, but Mr. Hixon currently resides in Franklin, and the couple purchased a house in Columbia. However, the fact that Mr. Hixon currently resides in Franklin is not determinative of the choice of law issue. Instead, the relevant factors to consider include the policies of the interested states, the relative interests of those states, the protection of justified expectations, and ease of determination and application of the law.
+
+The policies of the interested states are relevant, and the fact that the grounds for annulment differ between Columbia and Franklin is indicative of the strength of the policy interests involved. Columbia law permits an annulment on the ground that the spouse of either party was living and the marriage with that spouse was then in force and that spouse was absent and not known to the party commencing the proceeding to be living for a period of five successive years immediately preceding the subsequent marriage for which the annulment decree is sought. By contrast, Franklin law provides that certain marriages shall be void, including all marriages between parties where either party is lawfully married to another person. While both states have a policy interest in regulating the institution of marriage, the fact that the grounds for annulment differ between the two states suggests that the policy interests of each state are strong.
+
+The relative interests of the states are also relevant. In this case, the parties were married in Columbia, but they purchased a house in Columbia and lived there together. Mr. Hixon moved to Franklin for a job opportunity, but Ms. Tucker remained in Columbia. The fact that the couple purchased a house in Columbia and lived there together suggests that Columbia has a significant relationship to the marriage.
+
+However, the protection of justified expectations also weighs in favor of applying Franklin law. Mr. Hixon currently resides in Franklin, and the couple purchased a house in Columbia together. While the fact that the couple purchased a house in Columbia suggests that they had a justified expectation that Columbia law would apply, the fact that Mr. Hixon currently resides in Franklin suggests that he had a justified expectation that Franklin law would apply.
+
+Finally, ease of determination and application of the law also weighs in favor of applying Franklin law. The parties' marriage was entered into in Columbia, but the parties currently reside in different states, and the property at issue is located in Columbia. Applying Franklin law would provide a clear and predictable rule for determining the grounds for annulment.
+
+Conclusion
+Given the relevant factors, Franklin law governs the grounds for annulling Walter Hixon's marriage to Frances Tucker.

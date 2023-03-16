@@ -1,0 +1,16 @@
+The issue presented is whether joinder of Developer as a defendant in the action brought by Builder against Lender would deprive the court of subject-matter jurisdiction.
+
+Under the Federal Rules of Civil Procedure, a party is considered "indispensable" and must be joined if:
+
+(1) in that person's absence, the court cannot accord complete relief among existing parties; or
+(2) that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person's absence may:
+(i) as a practical matter impair or impede the person's ability to protect the interest; or
+(ii) leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
+
+Fed. R. Civ. P. 19(a).
+
+In this case, Developer is a necessary party to the action brought by Builder against Lender because Developer is a party to the construction contract at issue and has an interest in the outcome of the litigation. Specifically, Developer has an interest in the disbursement of the final $100,000 payment to Builder because it is obligated to pay Builder for the completed construction work. Furthermore, the loan agreement between Lender and Developer provides that any funds disbursed by Lender under the loan agreement would be added to Developer's loan balance and repaid, with interest, over a five-year period. Therefore, the outcome of the litigation will directly impact Developer's financial obligations to Lender.
+
+Moreover, if Developer is not joined as a defendant, the court cannot accord complete relief among the existing parties. Builder has sued Lender for breach of the loan agreement, seeking payment of the final $100,000 disbursement. However, if Developer is not a party to the action, the court cannot determine whether Builder is entitled to the final payment under the construction contract. In other words, the court cannot determine whether Lender's refusal to make the final disbursement was justified based on the alleged substandard construction work or whether Builder is entitled to the final payment regardless of Lender's refusal to disburse the funds.
+
+Therefore, joinder of Developer as a defendant is necessary to accord complete relief among the existing parties and to determine the rights and obligations of all parties under the construction contract and loan agreement. However, joinder of Developer would not deprive the court of subject-matter jurisdiction because both Builder and Lender are diverse parties, and the amount in controversy exceeds $75,000. Therefore, the court has diversity jurisdiction over the action pursuant to 28 U.S.C. § 1332.

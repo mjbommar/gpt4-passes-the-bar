@@ -1,0 +1,34 @@
+MEMORANDUM
+
+To: Howard Zeller
+From: Examinee
+Date: July 26, 2022
+Re: Briotti request for advice
+
+I. Introduction
+
+Nina Briotti has asked for our advice on whether she may lawfully record a telephone conversation with her client "X" without informing X that she is doing so. Briotti is concerned that X may undertake an illegal and criminal action by using funds from a trust fund he administers to cover losses from investments made on behalf of his clients. Briotti intends to counsel X against this course of action in a telephone conversation and would like to record the conversation without X's knowledge. The issue is whether Briotti may lawfully record the conversation under applicable state law.
+
+II. Analysis
+
+A. Applicable State Law
+
+Briotti's office is located in Franklin, and X is located in Olympia. Therefore, we must first determine which state's law governs the recording of the telephone conversation. Franklin is a "one-party consent" state, meaning that it is lawful to record a telephone conversation with the consent of only one party to the conversation. See FRANKLIN CRIMINAL CODE § 200. Olympia, on the other hand, is an "all-party consent" state, meaning that it is unlawful to record a telephone conversation without the consent of all parties to the conversation. See OLYMPIA CRIMINAL CODE § 500.4.
+
+The question of which state's law governs a cross-border conversation has been addressed by the Olympia District Court in Shannon v. Spindrift, Inc. In that case, the court held that "interceptions and recordings occur where made" and that "Olympia law does not apply when the act of interception takes place outside of Olympia." Therefore, under the reasoning of Shannon, the law of the state where the recording is made governs the legality of the recording. In this case, since Briotti will be making the recording in Franklin, Franklin law will govern the legality of the recording.
+
+B. Recording Under Franklin Law
+
+Under Franklin law, it is lawful to record a telephone conversation with the consent of only one party to the conversation. See FRANKLIN CRIMINAL CODE § 200. Therefore, Briotti may lawfully record her telephone conversation with X without informing X that she is doing so, as long as she consents to the recording.
+
+C. Ethical Considerations
+
+While Briotti may lawfully record the conversation under Franklin law, she must also consider the ethical implications of doing so. The ABA Model Rules of Professional Conduct, which have been adopted by both Franklin and Olympia, prohibit a lawyer from engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation. See MODEL RULES OF PROF'L CONDUCT R. 8.4(c). The ABA Standing Committee on Ethics and Professional Responsibility has issued Formal Opinion 01-422, which addresses the issue of electronic recordings by lawyers without the knowledge of all participants. The Opinion concludes that the mere act of secretly but lawfully recording a conversation is not inherently deceitful. However, the Opinion also notes that there are ethical considerations that arise when a lawyer contemplates recording a conversation with a client without the client's knowledge, including the duty of loyalty and the duty of confidentiality. The Opinion concludes that it is almost always advisable for a lawyer to inform a client that a conversation is being or may be recorded, before recording such a conversation, unless exceptional circumstances exist. 
+
+The Franklin State Bar Committee on Ethics and Professional Responsibility has adopted ABA Formal Opinion 01-422 and has issued its own commentary on the issue. The Franklin Committee echoes the ABA Committee's conclusion that recording of a conversation with a client, but without the client's knowledge, is almost always inadvisable unless the lawyer reasonably believes it necessary. The Franklin Committee also notes that a lawyer who undertakes such recording of a client must be fully aware of the risks and must reasonably believe in the necessity of making such a recording.
+
+Therefore, while Briotti may lawfully record the conversation under Franklin law, she must also consider the ethical implications of doing so and should only record the conversation without X's knowledge if she reasonably believes it is necessary.
+
+III. Conclusion
+
+Under applicable state law, Briotti may lawfully record her telephone conversation with X without informing X that she is doing so, as long as she consents to the recording. However, Briotti must also consider the ethical implications of recording the conversation without X's knowledge and should only do so if she reasonably believes it is necessary.

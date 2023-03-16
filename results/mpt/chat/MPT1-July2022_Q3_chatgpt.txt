@@ -1,0 +1,36 @@
+MEMORANDUM
+
+To: Marianne Morton
+From: Examinee
+Date: July 26, 2022
+Re: Walter Hixon matter
+
+Issue
+
+Would a Franklin court have jurisdiction to annul Walter Hixon's marriage to Frances Tucker and dispose of the parties' property if he files an annulment action in Franklin?
+
+Short Answer
+
+Yes, a Franklin court would have jurisdiction to annul Walter Hixon's marriage to Frances Tucker and dispose of the parties' property if he files an annulment action in Franklin.
+
+Analysis
+
+Jurisdiction
+
+The first issue to consider is whether a Franklin court has jurisdiction over Walter Hixon's marriage to Frances Tucker and the parties' property. Jurisdiction is a threshold issue that must be resolved before a court can proceed to the merits of the case. 
+
+In the present case, Walter Hixon and Frances Tucker were married in the State of Columbia. However, Mr. Hixon has been residing in Franklin for several years, and his wife has remained in Columbia. Under Franklin law, a court has jurisdiction to annul a marriage and to dispose of the parties' property if one of the parties has been domiciled in Franklin for at least six months. Daniels v. Daniels (Fr. Ct. App. 1997). Mr. Hixon has been residing in Franklin for several years and therefore meets the residency requirement. Thus, a Franklin court would have jurisdiction over the parties' marriage and property.
+
+Annulment
+
+Next, we must consider whether Mr. Hixon can seek an annulment of his marriage to Frances Tucker. An annulment is a legal proceeding that declares a marriage to be void or invalid from its inception. Fletcher v. Fletcher (Fr. Ct. App. 2014). In Franklin, a marriage may be declared void if it falls under one of the categories listed in the Domestic Relations Code, such as a bigamous marriage or a marriage between close relatives. Franklin Domestic Relations Code § 19-5(a). A marriage may also be declared voidable if it falls under the categories listed in Columbia Revised Statutes § 718.02, which includes a marriage where one spouse was already married and the previous spouse was absent for five years. Columbia Revised Statutes § 718.02(A)(1).
+
+In this case, Mr. Hixon's marriage to Frances Tucker does not fall under any of the categories listed in Franklin Domestic Relations Code § 19-5(a). However, it may be declared voidable under Columbia Revised Statutes § 718.02(A)(1) if Mr. Hixon can establish that his first marriage to Joan Prescott was still valid at the time of his marriage to Ms. Tucker. If he can establish that, he may seek an annulment of his marriage to Ms. Tucker on the ground that it was voidable under Columbia law.
+
+Disposition of Property
+
+Finally, we must consider whether a Franklin court can dispose of the parties' property in an annulment action. Under Franklin law, the provisions relating to property rights, support, and custody of children on dissolution of marriage are applicable to proceedings for annulment. Franklin Domestic Relations Code § 19-7. Thus, a Franklin court can issue orders dividing the property interests of the parties to an annulment, using the same rules as those governing the equitable division of property in a divorce.
+
+Recommendation
+
+Based on the above analysis, I recommend that Mr. Hixon file an annulment action in Franklin seeking to annul his marriage to Frances Tucker on the ground that it was voidable under Columbia law. A Franklin court would have jurisdiction to hear the case and to dispose of the parties' property. However, Mr. Hixon should also be advised that he may face criminal prosecution for bigamy and should consult with criminal counsel to assess his risks.

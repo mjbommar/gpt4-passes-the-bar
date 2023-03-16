@@ -1,0 +1,34 @@
+MEMORANDUM
+
+To: Howard Zeller
+From: Examinee
+Date: July 26, 2022
+Re: Briotti request for advice
+
+I. Introduction
+
+This memorandum addresses the question of whether Nina Briotti, an attorney and sole practitioner, must inform her client "X" that she is recording a telephone conversation with him if he asks, assuming that state law would allow Briotti to make such a recording and that doing so would not violate the Rules of Professional Conduct.
+
+II. Analysis
+
+A. State Law
+
+As a preliminary matter, it is important to determine whether state law would allow Briotti to make such a recording without X's knowledge or consent. Both Franklin and Olympia have statutes that address the interception and recording of wire communications. Franklin is a "one-party consent" state, meaning that it is lawful to record a conversation if one party to the conversation consents. See FRANKLIN CRIM. CODE § 200. Olympia, on the other hand, is an "all-party consent" state, meaning that it is unlawful to record a conversation without the consent of all parties to the conversation. See OLYMPIA CRIM. CODE § 500.4.
+
+Because Briotti is located in Franklin and X is located in Olympia, it is necessary to determine which state's law governs the recording of the conversation. In Shannon v. Spindrift, Inc., the Olympia District Court held that "interceptions and recordings occur where made," and therefore applied the law of the state where the recording took place. See Shannon v. Spindrift, Inc. (Olympia Dist. Ct. 2018). Applying this reasoning, it would appear that Franklin law would apply to the recording of the conversation between Briotti and X, since the recording would be made in Franklin. Therefore, under Franklin law, Briotti would be permitted to record the conversation without X's knowledge or consent, as long as she consents to the recording.
+
+B. Rules of Professional Conduct
+
+The next question is whether recording the conversation without X's knowledge or consent would violate the Rules of Professional Conduct. Both Franklin and Olympia have adopted the American Bar Association's Model Rules of Professional Conduct. See FRANKLIN R. PROF. CONDUCT; OLYMPIA R. PROF. CONDUCT. Rule 8.4 of the Model Rules prohibits a lawyer from engaging in conduct involving dishonesty, fraud, deceit, or misrepresentation. See MODEL RULES OF PROF'L CONDUCT R. 8.4(c).
+
+In Formal Opinion 01-422, the ABA Standing Committee on Ethics and Professional Responsibility concluded that "the mere act of secretly but lawfully recording a conversation is not inherently deceitful." See ABA Formal Op. 01-422 (2001). However, the Committee also noted that "there are circumstances in which requiring disclosure of the recording of a conversation may defeat a legitimate and even necessary activity," and therefore recognized certain exceptions to the general prohibition against secret recordings. Id. The Committee further concluded that "a prohibition of the conduct only where it is accompanied by other circumstances that make it unethical" is the proper approach. Id.
+
+Applying this reasoning, it would appear that Briotti's recording of the conversation with X would not violate the Rules of Professional Conduct, as long as the recording is lawful under state law and there are no other circumstances that make it unethical. However, the Committee also noted that "it is almost always advisable for a lawyer to inform a client that a conversation is being or may be recorded, before recording such a conversation." Id. The Committee recognized that "the relationship of trust and confidence that clients need to have with their lawyers...likely would be undermined by a client's discovery that, without his knowledge, confidential communications with his lawyer have been recorded by the lawyer." Id.
+
+C. Duty to Inform X of the Recording
+
+Assuming that state law would allow Briotti to make the recording and that doing so would not violate the Rules of Professional Conduct, the final question is whether Briotti must inform X that she is recording the conversation if he asks. The ABA Committee addressed this issue in Formal Opinion 01-422, and concluded that "a lawyer may not state falsely that the conversation is not being recorded." Id. Therefore, if X asks Briotti whether she is recording the conversation, she must answer truthfully.
+
+III. Conclusion
+
+In conclusion, assuming that state law would allow Briotti to make the recording and that doing so would not violate the Rules of Professional Conduct, she must inform X that she is recording the conversation if he asks. However, it is important to note that the ABA Committee advises that "it is almost always advisable for a lawyer to inform a client that a conversation is being or may be recorded, before recording such a conversation," in order to preserve the relationship of trust and confidence between the lawyer and client. See ABA Formal Op. 01-422 (2001).

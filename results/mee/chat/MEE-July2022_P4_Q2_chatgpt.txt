@@ -1,0 +1,17 @@
+The validity of the trust for the benefit of Donna depends on whether the AD Trust was revocable or irrevocable at the time of Arlene's death. The trust instrument did not contain any provision regarding revocability, which means that the trust is presumed to be revocable unless there is evidence to the contrary.
+
+Arlene's actions suggest that she intended to revoke the AD Trust. Two years before her death, she wrote across the face of the Declaration of Trust that it was revoked. Although this writing alone may not be sufficient to revoke the trust, it is evidence of Arlene's intent to do so. Additionally, Arlene took back the assets of the trust, which further supports the conclusion that she intended to revoke the trust. Therefore, absent evidence to the contrary, it is likely that the AD Trust was properly revoked.
+
+Assuming that the AD Trust was revoked, Arlene's niece Donna would not be entitled to any assets under the trust. However, Arlene's statement to her friend that the necklace and bonds were to be held in trust for Donna raises the question of whether a valid trust was created outside of the AD Trust.
+
+To create a valid trust, there must be a settlor who transfers property to a trustee for the benefit of a beneficiary. The settlor must intend to create a trust, and the trust must have a definite beneficiary and a definite corpus. The trustee must also have duties to perform with respect to the trust property.
+
+In this case, Arlene transferred the necklace and bonds to her friend and instructed her to hold them in trust for Donna. Arlene also provided specific instructions for the trustee, including selling the assets and using the proceeds for Donna's college education. These actions suggest that Arlene intended to create a trust for Donna's benefit.
+
+However, there are some issues with the validity of this trust. First, it is unclear whether Arlene intended to create a present or future trust. If the trust was intended to take effect immediately, then it may be valid. But if the trust was intended to take effect in the future, it may be invalid under the common law Rule Against Perpetuities, which prohibits trusts that vest too remotely in the future.
+
+Second, it is unclear whether the trust has a definite beneficiary. Arlene instructed her friend to hold the assets in trust for Donna, but did not specify what should happen if Donna does not survive to age 18 or if she does not need the funds for college. This ambiguity may render the trust invalid.
+
+Assuming that the trust for Donna is valid, the trustee (Arlene's friend) would have a duty to manage the trust property and distribute the proceeds in accordance with Arlene's instructions. The trustee would need to sell the necklace and bonds, use the proceeds for Donna's college education, and then distribute any remaining funds to Donna when she reaches age 22.
+
+Finally, with respect to Arlene's bank account, it would be distributed according to the jurisdiction's intestacy laws since Arlene did not dispose of it during her lifetime or in her will. The statute in this jurisdiction provides that the property would be distributed to the issue of Arlene's parents per stirpes. Since Arlene's only surviving relatives are her brother and her nieces and nephew, the bank account would be divided into four equal shares and distributed to Bob, Carla, Donna, and Edna.
